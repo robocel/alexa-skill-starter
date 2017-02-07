@@ -1,0 +1,15 @@
+MyColorIsIntent {Color} is my favorite color
+MyColorIsIntent remember {Color} is my favorite color
+MyColorIsIntent my favorite color is {Color}
+MyColorIsIntent remember my favorite color is {Color}
+MyColorIsIntent {Color} is my new favorite color
+MyColorIsIntent remember {Color} is my new favorite color
+MyColorIsIntent my new favorite color is {Color}
+MyColorIsIntent remember my new favorite color is {Color}
+
+WhatsMyColorIntent what's my favorite color
+WhatsMyColorIntent what is my favorite color
+WhatsMyColorIntent tell me my favorite color
+WhatsMyColorIntent do you know my favorite color
+WhatsMyColorIntent what did I tell you was my favorite color
+WhatsMyColorIntent what did I tell you my favorite color was
